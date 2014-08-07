@@ -156,7 +156,6 @@ public final class CSHandlerTest {
         return buf.toString();
     }
 
-    @Test
     private static void testLongString(char c) {
         int n = 70000;
         testObject(getString(c, n));
