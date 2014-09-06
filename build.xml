@@ -3,7 +3,7 @@
     <property name="root.dir" location="${basedir}/../.." />
     <property name="glue.dir" location="${root.dir}/glue" />
 
-    <property name="compile.source" value="1.6" />
+    <property name="compile.source" value="1.4" />
     <import file="${glue.dir}/glue-jar.xml" />
 	
 </project>
